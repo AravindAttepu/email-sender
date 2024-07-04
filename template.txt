@@ -1,0 +1,4 @@
+Dear ${PERSON_NAME},
+${MSG}
+${SENDER}
+${COMPANY}
